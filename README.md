@@ -32,13 +32,15 @@ RoboWhiz is a cutting-edge chatbot designed to engage in natural, human-like con
 
 # How to use the code?
 
- 1st make a simple html file 
+ 1. Make an html file named index.html
+    
+ 2. Make a file named style.css => In this all the Styling of the chatbot is done. 
  
- 2nd make a file named style.css => In this all the Styling of the chatbot will be done
+ 3. Make a file named script.js => In this all the logic of the Chatbot and webpage is done.
+    
+ 4. Paste the following the codes in the respective file names.
  
- 3rd make a file named script.js => In this all the logic of the Chatbot and webpage will be done
- 
- 4th Replace the API with your own Open AI API
+ 5. Replace the API Key with your own Open AI API Key.
 
 
 In conclusion, RoboWhiz is a versatile and intelligent conversational AI designed to revolutionize the way you interact with your audience. Whether it's customer support, lead generation, or providing valuable information, RoboWhiz is the ultimate tool to elevate your business's conversational capabilities.
