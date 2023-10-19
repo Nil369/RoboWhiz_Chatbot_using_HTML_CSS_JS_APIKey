@@ -106,6 +106,5 @@ chatbotToggler.addEventListener("click", () => document.body.classList.toggle("s
 
 
 
-// const apiKey = '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';
         
               
