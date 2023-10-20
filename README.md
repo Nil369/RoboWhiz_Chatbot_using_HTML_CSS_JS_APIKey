@@ -1,8 +1,10 @@
-# Chatbot 
+# RoboWhiz Chatbot 
 
-RoboWhiz: The Intelligent Conversational AI
+<h1>RoboWhiz: The Intelligent Conversational AI</h1>
 
-RoboWhiz is a cutting-edge chatbot designed to engage in natural, human-like conversations while offering a range of features that make it a versatile and indispensable tool for a multitude of applications. Here are the key features that set RoboWhiz apart:
+<img align="right" src="https://cdn.dribbble.com/users/6985884/screenshots/15849023/media/6dfb9f3caf75d8b6acc1f9bde6b885fa.gif" alt="chatbot" width="400px">
+
+<h3>RoboWhiz is a cutting-edge chatbot designed to engage in natural, human-like conversations while offering a range of features that make it a versatile and indispensable tool for a multitude of applications. Here are the key features that set RoboWhiz apart:<h3>
 
 1. Natural Language Understanding (NLU): RoboWhiz boasts advanced Natural Language Processing (NLP) capabilities, enabling it to comprehend and respond to user queries in a manner that feels both intuitive and human-like.
 
